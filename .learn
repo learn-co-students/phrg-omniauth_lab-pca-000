@@ -5,3 +5,5 @@ languages:
   - Ruby
 resources:
   - https://github.com/intridea/omniauth
+
+parent_template: git@github.com:learn-co-curriculum/omniauth_lab.git
